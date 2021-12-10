@@ -1,0 +1,31 @@
+{
+    "files.associations": {
+        "algorithm": "c",
+        "istream": "c",
+        "memory": "c",
+        "streambuf": "c",
+        "type_traits": "c",
+        "vector": "c",
+        "xiosbase": "c",
+        "xlocale": "c",
+        "xlocnum": "c",
+        "xstring": "c",
+        "xutility": "c",
+        "deque": "c",
+        "exception": "c",
+        "iosfwd": "c",
+        "new": "c",
+        "ostream": "c",
+        "queue": "c",
+        "stack": "c",
+        "system_error": "c",
+        "tuple": "c",
+        "typeinfo": "c",
+        "utility": "c",
+        "xfacet": "c",
+        "xlocinfo": "c",
+        "xmemory": "c",
+        "xmemory0": "c",
+        "xstddef": "c"
+    }
+}
